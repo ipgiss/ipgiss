@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konstantin
-- 👀 I’m interested in QA, AQA and other interesting things in testing world!
+- 👀 I’m interested in QA, AQA and other interesting things in QA world!
 - 🌱 I have finished the QA @SkyPro school https://sky.pro/
 - 💞️ I’m looking to collaborate on QA
 - 📫 How to reach me: e-mail ipgiss@gmail.com
