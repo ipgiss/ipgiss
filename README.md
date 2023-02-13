@@ -5,7 +5,7 @@
 - 📫 How to reach me: e-mail ipgiss@gmail.com
 
 Stack:
-Jira, Confluence, Postman, Rest API, JSON, SQL, Excel, Qase.io, JavaScript
+JavaScript, Confluence, Jira, Postman, Rest API, JSON, SQL, Excel, Qase.io;
 
 
 
