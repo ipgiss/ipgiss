@@ -5,7 +5,8 @@
 - 📫 How to reach me: e-mail ipgiss@gmail.com
 
 Stack:
-JavaScript, Confluence, Jira, Postman, Rest API, JSON, SQL, Qase.io + Excel, PowerQuery, PowerBI;
+Confluence, Jira, Postman, Rest API, JSON, SQL, Qase.io + Excel, PowerQuery, PowerBI;
+Learning AQA Python @qa-guru сcourses.
 
 
 
