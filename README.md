@@ -6,7 +6,7 @@
 
 Stack:
 Confluence, Jira, Postman, Rest API, JSON, SQL, Qase.io + Excel, PowerQuery, PowerBI;
-Learning AQA JS
+Learning AQA Java.
 
 
 
