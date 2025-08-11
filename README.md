@@ -14,3 +14,5 @@ Learning AQA Java.
 ipgiss/ipgiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Years in QA](https://img.shields.io/badge/Years_in_QA-1+-blue)
+![Automation Level](https://img.shields.io/badge/Automation-Junior-yellow)
