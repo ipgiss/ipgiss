@@ -23,3 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://selenium.dev)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+<h4>Python Automation Progress</h4>
+
+![Progress](https://progress-bar.dev/65/?scale=100&title=QA-Guru&width=400&color=brightgreen)
