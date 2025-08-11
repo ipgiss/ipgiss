@@ -39,8 +39,8 @@ Excel | PowerQuery | Power BI
 
 ### 💌 Contact Me
 📫 **Email:** [ipgiss@gmail.com](mailto:ipgiss@gmail.com)  
-💼 **LinkedIn:** [Let's connect!](https://linkedin.com/in/YOUR_PROFILE) *(recommended)*  
-📱 **Telegram:** [@YOUR_USERNAME](https://t.me/YOUR_USERNAME)  
+💼 **LinkedIn:** [Let's connect!](https://linkedin.com/in/YOUR_PROFILE) *(later)*  
+📱 **Telegram:** [@ipgiss](https://t.me/ipgiss)  
 
 ---
 
