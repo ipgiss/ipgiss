@@ -8,7 +8,10 @@ Stack:
 Confluence, Jira, Postman, Rest API, JSON, SQL, Qase.io + Excel, PowerQuery, PowerBI;
 Learning AQA Java.
 
-
+### 🐍 Python Projects
+- [Web Test Automation Framework](https://github.com/your/repo)
+- [API Testing Suite](https://github.com/your/repo)
+- [QA Utilities Collection](https://github.com/your/repo)
 
 <!---
 ipgiss/ipgiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
