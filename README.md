@@ -1,12 +1,57 @@
-- 👋 Hi, I’m Konstantin
-- 👀 I’m interested in QA, AQA and other interesting things in QA world!
-- 🌱 I have finished the QA @SkyPro school https://sky.pro/
-- 💞️ I’m looking to collaborate on QA
-- 📫 How to reach me: e-mail ipgiss@gmail.com
+👋 **Hello, I'm Konstantin!**  
+QA Engineer transitioning to Automation with Python. Passionate about building reliable test frameworks.
 
-Stack:
-Confluence, Jira, Postman, Rest API, JSON, SQL, Qase.io + Excel, PowerQuery, PowerBI;
-Learning AQA Java.
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Testing & Collaboration:**  
+Confluence | Jira | Postman | Qase.io | TestRail  
+
+**API & Data:**  
+REST API | JSON | SQL | XML  
+
+**Automation & CI/CD:**  
+Python | Selenium WebDriver | Pytest | Git | GitHub Actions  
+
+**Data Analytics:**  
+Excel | PowerQuery | Power BI  
+
+---
+
+### 🚀 Current Focus
+- 🔭 Mastering **Python test automation** stack
+- 🌱 Learning **Selenium WebDriver** for UI testing
+- 🐍 Developing automation skills with Pytest framework
+- 🤝 Contributing to testing communities
+- ✨ Building CI/CD pipelines for test automation
+
+---
+
+### 🎓 Education & Certifications
+- ✅ QA Engineering Program @ [SkyPro](https://sky.pro/)
+- 🐍 **Current**: Python Automation Track @ [QA-Guru](https://qa.guru/)
+- 📚 Relevant coursework:
+  - "Python Generation" (Stepik)
+  - "Software Testing Automation: Python & Selenium" (Stepik)
+
+---
+
+### 💌 Contact Me
+📫 **Email:** [ipgiss@gmail.com](mailto:ipgiss@gmail.com)  
+💼 **LinkedIn:** [Let's connect!](https://linkedin.com/in/YOUR_PROFILE) *(recommended)*  
+📱 **Telegram:** [@YOUR_USERNAME](https://t.me/YOUR_USERNAME)  
+
+---
+
+### 🤝 Collaboration Interests
+- Python test automation projects
+- Open-source testing tools
+- QA process improvement initiatives
+- Technical blogging about test automation
+- CI/CD pipeline optimization
+
+✨ *"Testing leads to failure, and failure leads to understanding."* - Burt Rutan
 
 ### 🐍 Python Projects
 - [Web Test Automation Framework](https://github.com/your/repo)
