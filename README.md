@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Years in QA](https://img.shields.io/badge/Years_in_QA-1+-blue)
 ![Automation Level](https://img.shields.io/badge/Automation-Junior-yellow)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
