@@ -72,6 +72,6 @@ You can click the Preview link to take a look at your changes.
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-<h4>🚀 QA-Guru Progress</h4>
+<h4>🐍 Current Learning Progress</h4>
 
-![Python Automation](https://progress-bar.dev/35/?title=Python+Automation&width=400&color=00aa00)
+![Python QA](https://progress-bar.dev/45/?title=Python+QA&width=300&color=3776AB&prefix=🐍+)
